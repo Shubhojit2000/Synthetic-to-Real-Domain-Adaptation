@@ -67,4 +67,4 @@ Performance gap reduced by:
 ### Run:
 
 ```bash
-python CODE.py
+python CODE.PY
